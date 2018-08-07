@@ -1,0 +1,15 @@
+﻿Build started 9/13/2016 3:38:24 PM.
+     1>Project "\\fs09d\stu11\Home\zhenkusens0654\Visual Studio 2012\Projects\AlgorithmParityLabZackH\AlgorithmParityLabZackH\AlgorithmParityLabZackH.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Parity.cpp
+         Parity.cpp
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\algorithmparitylabzackh\algorithmparitylabzackh\parity.cpp(40): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\fs09d\stu11\Home\zhenkusens0654\Visual Studio 2012\Projects\AlgorithmParityLabZackH\Debug\AlgorithmParityLabZackH.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\fs09d\stu11\Home\zhenkusens0654\Visual Studio 2012\Projects\AlgorithmParityLabZackH\Debug\AlgorithmParityLabZackH.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\fs09d\stu11\Home\zhenkusens0654\Visual Studio 2012\Projects\AlgorithmParityLabZackH\Debug\AlgorithmParityLabZackH.lib" /MACHINE:X86 Debug\Source.obj
+         Debug\Parity.obj
+         AlgorithmParityLabZackH.vcxproj -> \\fs09d\stu11\Home\zhenkusens0654\Visual Studio 2012\Projects\AlgorithmParityLabZackH\Debug\AlgorithmParityLabZackH.exe
+     1>Done Building Project "\\fs09d\stu11\Home\zhenkusens0654\Visual Studio 2012\Projects\AlgorithmParityLabZackH\AlgorithmParityLabZackH\AlgorithmParityLabZackH.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70

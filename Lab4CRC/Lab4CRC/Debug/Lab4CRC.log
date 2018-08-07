@@ -1,0 +1,23 @@
+﻿Build started 10/14/2016 11:42:09 AM.
+     1>Project "\\fs09d\stu11\Home\zhenkusens0654\visual studio 2012\Projects\Lab4CRC\Lab4CRC\Lab4CRC.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\lab4crc\lab4crc\main.c(29): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\lab4crc\lab4crc\main.c(37): warning C4047: '=' : 'unsigned char' differs in levels of indirection from 'void *'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\lab4crc\lab4crc\main.c(43): warning C4047: 'function' : 'const char *' differs in levels of indirection from 'int'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\lab4crc\lab4crc\main.c(43): warning C4024: 'strcpy' : different types for formal and actual parameter 2
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\lab4crc\lab4crc\main.c(43): warning C4020: 'strcpy' : too many actual parameters
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\lab4crc\lab4crc\main.c(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\lab4crc\lab4crc\main.c(18): warning C4101: 'crcs' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\fs09d\stu11\Home\zhenkusens0654\visual studio 2012\Projects\Lab4CRC\Debug\Lab4CRC.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\fs09d\stu11\Home\zhenkusens0654\visual studio 2012\Projects\Lab4CRC\Debug\Lab4CRC.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\fs09d\stu11\Home\zhenkusens0654\visual studio 2012\Projects\Lab4CRC\Debug\Lab4CRC.lib" /MACHINE:X86 Debug\crc.obj
+         Debug\main.obj
+         Lab4CRC.vcxproj -> \\fs09d\stu11\Home\zhenkusens0654\visual studio 2012\Projects\Lab4CRC\Debug\Lab4CRC.exe
+     1>Done Building Project "\\fs09d\stu11\Home\zhenkusens0654\visual studio 2012\Projects\Lab4CRC\Lab4CRC\Lab4CRC.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.74

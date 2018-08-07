@@ -1,0 +1,11 @@
+﻿Build started 10/28/2016 10:57:27 AM.
+     1>Project "\\fs09d\stu11\Home\zhenkusens0654\visual studio 2012\Projects\Project 2 Console\Project 2 Console\Project 2 Console.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 console\project 2 console\main.cpp(3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>Done Building Project "\\fs09d\stu11\Home\zhenkusens0654\visual studio 2012\Projects\Project 2 Console\Project 2 Console\Project 2 Console.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.93

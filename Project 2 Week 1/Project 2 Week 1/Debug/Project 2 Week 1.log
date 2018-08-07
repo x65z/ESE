@@ -1,0 +1,24 @@
+﻿Build started 10/28/2016 12:45:32 PM.
+     1>Project "\\fs09d\stu11\Home\zhenkusens0654\visual studio 2012\Projects\Project 2 Week 1\Project 2 Week 1\Project 2 Week 1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /D _MBCS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 week 1\project 2 week 1\main.cpp(20): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 week 1\project 2 week 1\main.cpp(21): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 week 1\project 2 week 1\main.cpp(22): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 week 1\project 2 week 1\main.cpp(23): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 week 1\project 2 week 1\main.cpp(24): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 week 1\project 2 week 1\main.cpp(25): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 week 1\project 2 week 1\main.cpp(26): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 week 1\project 2 week 1\main.cpp(27): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 week 1\project 2 week 1\main.cpp(28): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\projects\project 2 week 1\project 2 week 1\main.cpp(491): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\Projects\Project 2 Week 1\Debug\Project 2 Week 1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\Projects\Project 2 Week 1\Debug\Project 2 Week 1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\fs09d\stu11\home\zhenkusens0654\visual studio 2012\Projects\Project 2 Week 1\Debug\Project 2 Week 1.lib" /MACHINE:X86 Debug\Main.obj
+         Project 2 Week 1.vcxproj -> \\fs09d\stu11\home\zhenkusens0654\visual studio 2012\Projects\Project 2 Week 1\Debug\Project 2 Week 1.exe
+     1>Done Building Project "\\fs09d\stu11\Home\zhenkusens0654\visual studio 2012\Projects\Project 2 Week 1\Project 2 Week 1\Project 2 Week 1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.73
